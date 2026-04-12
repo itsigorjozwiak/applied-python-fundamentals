@@ -1,0 +1,6 @@
+requests
+schedule
+matplotlib
+multipledispatch
+pytest
+pandas
